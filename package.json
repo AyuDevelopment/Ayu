@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.7.1",
+    "glob": "^8.0.3",
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "node-fetch": "^3.2.6"
